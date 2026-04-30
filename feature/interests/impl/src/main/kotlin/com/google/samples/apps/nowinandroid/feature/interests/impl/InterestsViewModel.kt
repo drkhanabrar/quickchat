@@ -23,8 +23,8 @@ import com.google.samples.apps.nowinandroid.core.data.repository.UserDataReposit
 import com.google.samples.apps.nowinandroid.core.domain.GetFollowableTopicsUseCase
 import com.google.samples.apps.nowinandroid.core.domain.TopicSortField
 import com.google.samples.apps.nowinandroid.core.model.data.FollowableTopic
-import com.google.samples.apps.nowinandroid.feature.interests.api.navigation.InterestsNavKey
 import com.google.samples.apps.nowinandroid.core.ui.stateInUi
+import com.google.samples.apps.nowinandroid.feature.interests.api.navigation.InterestsNavKey
 import dagger.assisted.Assisted
 import dagger.assisted.AssistedFactory
 import dagger.assisted.AssistedInject
